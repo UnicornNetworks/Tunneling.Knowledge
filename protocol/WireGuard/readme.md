@@ -1,3 +1,7 @@
+# in Gnome's Network Manager
+WireGuard is available in Gnome Desktop's Network Manager under "add VPN".
+
+
 # by: @AwesomeOpenSource
 sch: https://www.youtube.com/@AwesomeOpenSource/search?query=wireguard
 
