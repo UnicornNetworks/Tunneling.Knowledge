@@ -4,6 +4,7 @@ Home: https://www.cloudflare.com/products/tunnel/
 doc:
 - https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/
 - https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/get-started/
+- https://developers.cloudflare.com/cloudflare-one/faq/cloudflare-tunnels-faq/
 
 ## Community:
 sch: https://www.google.com/search?q=cloudflare+tunnel , https://www.youtube.com/results?search_query=Cloudflare+Tunnel
